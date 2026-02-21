@@ -27,5 +27,5 @@ spec:
     spec:
       containers:
         - name: hello
-          image: greensguna7/newimage1:latest
+          image: remiya/mypyimage:latest
           imagePullPolicy: Always
